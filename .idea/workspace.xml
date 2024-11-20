@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ba4605-06cd-41e0-a8d9-7b3181e99a0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/model/PostDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/repository/PostRepositoryInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/controller/PostController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/model/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/repository/PostRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/repository/PostRepositoryStubImpl.java" beforeDir="false" />
-    </list>
+    <list default="true" id="63ba4605-06cd-41e0-a8d9-7b3181e99a0e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731707355275</updated>
       <workItem from="1731707356898" duration="5381000" />
-      <workItem from="1732100951534" duration="10954000" />
+      <workItem from="1732100951534" duration="11512000" />
     </task>
     <servers />
   </component>
